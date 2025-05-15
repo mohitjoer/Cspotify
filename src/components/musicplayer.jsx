@@ -23,8 +23,8 @@ function MusicPlayerBar() {
                     <Card sx={{ display: 'flex',color:"black", bgcolor:"black" }}>
                         <CardMedia
                             component="img"
-                            sx={{ width: 151 }}
-                            image="/static/images/cards/live-from-space.jpg"
+                            sx={{ width: 80, height: 80 ,padding: 1, borderRadius: 2}}
+                            image="https://imgs.search.brave.com/KUJGhSlAPweNNZZe2T7uxvzdlWv7hsE0E6gIgkQe0u4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92b25k/eS1pbWFnZXMuY29t/L2ltYWdlLXByb3h5/P3VybD1odHRwczov/L3Byb3RvaW5mcmFz/dGFjay1teWZpcnN0/YnVja2V0Yjg4ODQ1/MDEtZm5uenZ4dDJl/ZTV2LnMzLmFtYXpv/bmF3cy5jb20vMzhh/bzdEd09UR29EVXNa/RnZhNEJXTk91RWM1/aTJyZVR1RXNzLnBu/Zw"
                             alt="Live from space album cover"/>
                         <Box sx={{ display: 'flex', flexDirection: 'column' }}>
                         <CardContent sx={{ flex: '1 0 auto' , color:"white"}}>
