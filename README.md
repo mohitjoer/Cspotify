@@ -48,7 +48,7 @@ CSpotify/
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository-url]
+    git clone https://github.com/mohitjoer/Cspotify.git
     cd client
     ```
 
